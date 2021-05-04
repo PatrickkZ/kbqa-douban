@@ -1,0 +1,5 @@
+如果是使用单机处理，处理前的数据放在该文件夹下，如果是用hadoop进行处理，此文件夹为空，处理后的文件放在new文件夹下即可
+book_info.txt
+book_person.txt
+movie_info.txt
+movie_person_info.txt
